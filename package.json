@@ -1,0 +1,28 @@
+{
+  "name": "miner-bitcoin",
+  "version": "1.0.0",
+  "description": "Miner of the bitcoin, using coin hive",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --watch"
+  },
+  "keywords": [
+    "bitcoin",
+    "coin",
+    "hive",
+    "miner",
+    "script",
+    "tutorial",
+    "article",
+    "post",
+    "brasil",
+    "black",
+    "hat",
+    "anonimo000"
+  ],
+  "author": "Anônimo000",
+  "license": "ISC",
+  "dependencies": {
+    "coin-hive": "^1.9.3"
+  }
+}
